@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For BCArray
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+BCArray	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+put	KEYWORD2
+get	KEYWORD2
+byteArray	KEYWORD2
+length	KEYWORD2
+capacity	KEYWORD2
+bytesLength	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
